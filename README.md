@@ -1,9 +1,26 @@
 # belly-button-challenge
 Using the D3 Javascript library to generate an interactive dashboard to explore an umbilicus (belly button) biodiversity dataset.
 
-This challenge is being submitted as part of a data analytics bookcamp course that the author is doing through the University of Western Australia. These are the challenge instructions:
+# Executive Summary
+This project, part of Module 14 Challenge for a data analytics bootcamp, involves building an interactive dashboard to explore the Belly Button Biodiversity dataset. This dataset catalogs the microbes that colonise human navels, revealing that a small number of microbial species are common among more than 70% of people, while the majority are relatively rare.
 
-# Module 14 Challenge
+The primary objectives of this project are:
+
+1. Data Visualisation: Utilize the D3 library to read in a JSON dataset and create interactive visualizations.
+
+    - Horizontal Bar Chart: Displays the top 10 operational taxonomic units (OTUs) for each individual with dropdown selection.
+    - Bubble Chart: Visualizes all OTUs for each individual with customizable markers for size and color.
+    - Metadata Panel: Displays demographic information for each individual.
+
+2. Interactivity: Ensure that all visualizations update when a new sample is selected, providing a dynamic user experience.
+
+3. Deployment: Deploy the dashboard to a static page hosting service such as GitHub Pages, making it accessible online.
+
+This project demonstrates proficiency in data handling, visualisation, and web deployment, showcasing the ability to create informative and interactive data-driven applications.
+
+---
+
+# Module 14 Challenge Instructions
 
 **Due Thursday by 23:59 Points 100**
 
