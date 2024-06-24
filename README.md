@@ -3,7 +3,6 @@ Using the D3 Javascript library to generate an interactive dashboard to explore 
 
 This challenge is being submitted as part of a data analytics bookcamp course that the author is doing through the University of Western Australia. These are the challenge instructions:
 
-```markdown
 # Module 14 Challenge
 
 **Due Thursday by 23:59 Points 100**
