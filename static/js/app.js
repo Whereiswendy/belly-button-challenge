@@ -61,6 +61,7 @@ function buildCharts(sample) {
       showlegend: false,
       hovermode: 'closest',
       xaxis: { title: 'OTU ID' },
+      yaxis: { title: 'Number of Bacteria' },
       
     };
 
