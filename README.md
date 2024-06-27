@@ -1,4 +1,4 @@
-# belly-button-challenge
+# Belly Button Biodiversity Dashboard
 Using the D3 Javascript library to generate an interactive dashboard to explore an umbilicus (belly button) biodiversity dataset.
 
 # Executive Summary
@@ -17,6 +17,32 @@ The primary objectives of this project are:
 3. Deployment: Deploy the dashboard to a static page hosting service such as GitHub Pages, making it accessible online.
 
 This project demonstrates proficiency in data handling, visualisation, and web deployment, showcasing the ability to create informative and interactive data-driven applications.
+
+---
+
+This project is an interactive dashboard to explore the Belly Button Biodiversity dataset.
+
+## Features
+
+- Interactive bar chart showing the top 10 OTUs found in an individual
+- Bubble chart displaying each sample
+- Gauge chart showing the washing frequency
+- Demographic information panel
+
+## Deployment
+
+The app is deployed on GitHub Pages and can be accessed at the following link:
+
+[Deployed App](https://USERNAME.github.io/REPOSITORY/)
+
+## Usage
+
+1. Clone the repository
+2. Open `index.html` in your browser
+
+## Contributing
+
+Feel free to submit issues and pull requests.
 
 ---
 
