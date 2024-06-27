@@ -33,7 +33,7 @@ This project is an interactive dashboard to explore the Belly Button Biodiversit
 
 The app is deployed on GitHub Pages and can be accessed at the following link:
 
-[Deployed App](https://USERNAME.github.io/REPOSITORY/)
+[Deployed App](https://whereiswendy.github.io/belly-button-challenge/)
 
 ## Usage
 
